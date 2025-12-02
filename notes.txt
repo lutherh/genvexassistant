@@ -1,0 +1,12 @@
+nabto
+micro nabto
+https://github.com/HairingX/nilan_proxy
+https://github.com/superrob/genvexNabto
+
+Model: Optima 270 (model 2010, device number 79265)
+direkte kommunikation til ventilation unit, udenom online servere, ukrypteret. Det er noget med at den gamle version kan det??
+det burde være muligt at snakke med uniten ukrypteret lokalt
+herefter finde ud af hvordan protokollen virker for at kommunikere med enheden
+IP: 192.168.0.178 ??
+Device ID: 1388803622936
+
