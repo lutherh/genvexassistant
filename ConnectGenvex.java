@@ -11,7 +11,7 @@ public class ConnectGenvex {
 
     private static final String TARGET_IP = "192.168.0.178";
     private static final int TARGET_PORT = 5570;
-    private static final String EMAIL = "izbrannick@gmail.com";
+    private static final String EMAIL = "user@example.com";
 
     private static final byte U_CONNECT = (byte) 0x83;
     private static final byte U_DATA = (byte) 0x16;
