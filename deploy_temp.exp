@@ -1,0 +1,8 @@
+#!/usr/bin/expect -f
+set timeout 60
+spawn scp -P 22222 ha_addon/app.jar glutter@192.168.0.107:/addons/local/genvex_monitor/app.jar
+expect {
+    "yes/no" { send "yes\r"; exp_continue }
+    "password:" { send "P@ssw0rdD!123\r" }
+}
+expect eof
