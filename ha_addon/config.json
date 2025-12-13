@@ -12,6 +12,7 @@
   "ports": {
     "8081/tcp": 8081
   },
+  "image": "ghcr.io/lutherh/genvexassistant/{arch}-genvex-monitor",
   "options": {
     "genvex_ip": "192.168.0.178",
     "genvex_email": "izbrannick@gmail.com",
