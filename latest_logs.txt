@@ -1,4 +1,10 @@
 
+[2025-12-11 20:12:44] [294d90] Skipping boost check due to long gap between readings (139s). Re-establishing baseline.
+[2025-12-11 20:12:44] [294d90] Logged: Humidity=62%, Temp=16.9C, RPM=1064
+[2025-12-11 20:14:19] [294d90] Error polling data: Failed to read datapoints (returned -1)
+[2025-12-11 20:15:04] [294d90] Skipping boost check due to long gap between readings (139s). Re-establishing baseline.
+[2025-12-11 20:15:04] [294d90] Adjusting Fan Speed: 2 -> 1
+[2025-12-11 20:15:04] [294d90] Logged: Humidity=62%, Temp=16.9C, RPM=1068
 [2025-12-11 20:16:38] [294d90] Error polling data: Failed to read datapoints (returned -1)
 [2025-12-11 20:17:23] [294d90] Skipping boost check due to long gap between readings (139s). Re-establishing baseline.
 [2025-12-11 20:17:23] [294d90] Logged: Humidity=61%, Temp=16.8C, RPM=1068
@@ -56,3 +62,12 @@
 [2025-12-11 20:54:38] [294d90] Skipping boost check due to long gap between readings (139s). Re-establishing baseline.
 [2025-12-11 20:54:38] [294d90] Adjusting Fan Speed: 3 -> 1
 [2025-12-11 20:54:38] [294d90] Logged: Humidity=67%, Temp=18.0C, RPM=3132
+[2025-12-11 20:56:12] [294d90] Error polling data: Failed to read datapoints (returned -1)
+[2025-12-11 20:56:57] [294d90] Skipping boost check due to long gap between readings (139s). Re-establishing baseline.
+[2025-12-11 20:56:57] [294d90] Adjusting Fan Speed: 1 -> 3
+[2025-12-11 20:56:57] [294d90] Logged: Humidity=70%, Temp=18.2C, RPM=1060
+[2025-12-11 20:58:32] [294d90] Error polling data: Failed to read datapoints (returned -1)
+[2025-12-11 20:59:17] [294d90] Skipping boost check due to long gap between readings (139s). Re-establishing baseline.
+[2025-12-11 20:59:17] [294d90] Adjusting Fan Speed: 3 -> 1
+[2025-12-11 20:59:17] [294d90] Logged: Humidity=67%, Temp=17.9C, RPM=3132
+[2025-12-11 21:00:52] [294d90] Error polling data: Failed to read datapoints (returned -1)
